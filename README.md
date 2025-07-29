@@ -49,12 +49,19 @@ The dashboard helps answer key business questions:
 ## 🗂️ Folder Structure
 
 📁 Sales_Performance_Dashboard/
+
 |
+
 ├── 📊 Sales_Performance_Dashboard.pbix
+
 ├── 📄 README.md
-├── 📁 images/
+
+├─ 📁 images/
+
 │ └── dashboard-preview.png
+
 ├── 📁 data/
+
 │ └── sales_data_sample.csv
 
 
